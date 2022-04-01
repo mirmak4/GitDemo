@@ -13,5 +13,7 @@ public class App
         System.out.println("This is GIT X workspace");
         System.out.println("Now is work by American guy");
         System.out.println("OK its done");
+        System.out.println("Asian guy starts working on develop branch");
+        System.out.println("And makes lots of changes");
     }
 }
