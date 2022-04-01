@@ -11,5 +11,7 @@ public class App
 
         System.out.println( "Hello World!" );
         System.out.println("This is GIT X workspace");
+        System.out.println("Now is work by American guy");
+        System.out.println("OK its done");
     }
 }
