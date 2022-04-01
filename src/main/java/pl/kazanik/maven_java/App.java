@@ -15,5 +15,6 @@ public class App
         System.out.println("OK its done");
         System.out.println("Asian guy starts working on develop branch");
         System.out.println("And makes lots of changes");
+        System.out.println("Now American guy adds new changes");
     }
 }
